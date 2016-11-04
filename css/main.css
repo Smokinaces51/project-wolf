@@ -1,1 +1,16 @@
-here
+h1 {
+	color: #990011;
+}
+
+h2 {
+	color: #009900;
+}
+
+h3 { 
+	color: #107e7d;
+}
+
+#wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
